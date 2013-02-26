@@ -3,10 +3,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>C:\Users\mm\Desktop\SKOLA\rok 02\Rendering\cviko03\include;$(IncludePath)</IncludePath>
-  </PropertyGroup>
-  <PropertyGroup>
-    <LibraryPath>C:\Users\mm\Desktop\SKOLA\rok 02\Rendering\cviko03\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\mm\Desktop\cviko03\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\mm\Desktop\cviko03\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <Link>

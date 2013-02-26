@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <GL\GLEW.H> // http://glew.sourceforge.net/basic.html
+#include <GL/glew.h> // http://glew.sourceforge.net/basic.html
 
 #include <GL/glfw.h> // http://www.glfw.org/GLFWReference27.pdf
 
