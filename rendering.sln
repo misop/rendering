@@ -1,7 +1,7 @@
-
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rendering", "rendering.vcxproj", "{22F01440-E90D-4581-9E70-A7DECC08EF9B}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rendering", "Rendering\rendering.vcxproj", "{336719C3-656E-486E-9932-2704CE6FCBBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22F01440-E90D-4581-9E70-A7DECC08EF9B}.Debug|Win32.ActiveCfg = Debug|Win32
-		{22F01440-E90D-4581-9E70-A7DECC08EF9B}.Debug|Win32.Build.0 = Debug|Win32
-		{22F01440-E90D-4581-9E70-A7DECC08EF9B}.Release|Win32.ActiveCfg = Release|Win32
-		{22F01440-E90D-4581-9E70-A7DECC08EF9B}.Release|Win32.Build.0 = Release|Win32
+		{336719C3-656E-486E-9932-2704CE6FCBBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{336719C3-656E-486E-9932-2704CE6FCBBA}.Debug|Win32.Build.0 = Debug|Win32
+		{336719C3-656E-486E-9932-2704CE6FCBBA}.Release|Win32.ActiveCfg = Release|Win32
+		{336719C3-656E-486E-9932-2704CE6FCBBA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
