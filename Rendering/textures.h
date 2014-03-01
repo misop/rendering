@@ -2,7 +2,7 @@
 // IMPLEMENTACIA NACITANIA TEXTUR
 
 // GLEW kniznica. pre spravu novsich rozsireni
-#include "glew.h"
+#include <GL/glew.h>
 
 // nacitanie textury z externeho suboru a jej ulozenie do OpenGL
 // navratova hodnota je OpenGL id textury 

@@ -4,7 +4,7 @@
 #include "textures.h"
 
 // OpenIL kniznica pre nacitanie obrazkov
-#include "il.h"
+#include <IL/il.h>
 
 // nacitanie textury z externeho suboru a jej ulozenie do OpenGL
 // navratova hodnota je OpenGL id textury 

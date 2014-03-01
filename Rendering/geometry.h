@@ -2,7 +2,7 @@
 // DEFINOVANIE ZAKLADNYCH GEOMETRICKYCH OBJEKTOV
 
 // GLEW kniznica. pre spravu novsich rozsireni
-#include "glew.h"
+#include <GL/glew.h>
 
 // priprava VBO pre renderovanie kocky
 void initCubeVBO();

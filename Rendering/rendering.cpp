@@ -2,7 +2,7 @@
 #include <windows.h>
 
 // GLEW kniznica. pre spravu novsich rozsireni
-#include "glew.h"
+#include <GL/glew.h>
 // GL Utility Toolkit (GLUT), v ramci toho sa includuje aj openGL hlavickovy subor
 #include "glut.h"
 

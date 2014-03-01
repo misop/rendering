@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 // GLEW kniznica. pre spravu novsich rozsireni
-#include "glew.h"
+#include <GL/glew.h>
 
 // nacitanie zdrojoveho suboru shadera a ulozenie do OpenGL shadera
 // navratova hodnota je OpenGL id shadera

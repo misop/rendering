@@ -2,7 +2,7 @@
 // IMPLEMENTACIA NACITANIA MODELOV Z EXTERNEHO SUBORU
 
 // GLEW kniznica. pre spravu novsich rozsireni
-#include "glew.h"
+#include <GL/glew.h>
 #include <vector>
 
 class Mesh
